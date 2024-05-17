@@ -16,7 +16,7 @@ class HomePage extends StatefulWidget {
 }
 
 class _HomePageState extends State<HomePage> {
-  static const BeepFile _beepFile = BeepFile('assets/beep.wav');
+  static const BeepFile _beepFile = BeepFile('assets/titan.ogg');
 
   @override
   void initState() {
