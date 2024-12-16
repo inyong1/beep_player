@@ -4,6 +4,7 @@ import android.content.res.AssetFileDescriptor
 import android.content.res.AssetManager
 import android.media.AudioAttributes
 import android.media.SoundPool
+import com.getkeepsafe.relinker.BuildConfig
 import io.flutter.Log
 import io.flutter.embedding.engine.plugins.FlutterPlugin.FlutterAssets
 import kotlinx.coroutines.CoroutineScope
